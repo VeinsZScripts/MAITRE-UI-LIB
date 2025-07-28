@@ -94,7 +94,7 @@ mainTab:AddTextBox("Type Value", function(txt) print("Value:", txt) end)
 
 ---
 
-## loadstring
+## 🪟 Making a Window
 
 ```lua
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YoshiroScripts/MAITRE-UI-LIBRARY/refs/heads/main/SIMILAR-TO-ELERIUM.py"))()
