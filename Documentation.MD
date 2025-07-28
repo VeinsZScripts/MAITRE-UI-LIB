@@ -98,3 +98,4 @@ mainTab:AddTextBox("Type Value", function(txt) print("Value:", txt) end)
 
 ```lua
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YoshiroScripts/MAITRE-UI-LIBRARY/refs/heads/main/SIMILAR-TO-ELERIUM.py"))()
+local win = lib:Addwindow("Example Maitre Window", {main_color = Color3.fromRGB(20, 20, 20), min_size = Vector2.new(640, 880)})
