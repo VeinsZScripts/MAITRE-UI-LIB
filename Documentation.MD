@@ -1,3 +1,7 @@
+# loadstring
+
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YoshiroScripts/MAITRE-UI-LIBRARY/refs/heads/main/SIMILAR-TO-ELERIUM.py"))()
+
 # UI Library Cheat Sheet
 
 This documentation covers the most common UI elements you can add using the library.  
